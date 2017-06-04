@@ -1,5 +1,5 @@
 # FruitTrayImageProcessing
-An image is processed using Gaussian filters, Binary Images, Object Detection, Color Manipulation with the help of OpenCV library.
+An image is processed using Object Detection, Color Manipulation with the help of OpenCV library.
 
 Assignment 1 - Part 1: Increase the contrast of image by 50 and save the image.
                Part 2: Convert the images from RGB to HSV by writing my own code and save the images.
